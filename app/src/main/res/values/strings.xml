@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Global News</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_news_articles">No News Articles</string>
+
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_min_magnitude_label">Minimum Magnitude</string>
+    <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
+    <string name="settings_min_magnitude_default" translatable="false">6</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevancy_label">Relevancy</string>
+    <string name="settings_order_by_relevancy_value" translatable="false">relevancy</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">publishedAt</string>
+
+    <!-- Strings For Select Source Preference [CHAR LIMIT=30] -->
+    <string name="settings_source_label">Select a news source</string>
+    <string name="settings_source_key" translatable="false">source</string>
+    <string name="settings_source_default" translatable="false">@string/settings_BBC_News_value</string>
+
+    <!-- Label For Select The New York Times [CHAR LIMIT=20] -->
+    <string name="settings_theNewYorkTimes_label">The New York Times</string>
+    <string name="settings_theNewYorkTimes_value" translatable="false">the-new-york-times</string>
+
+    <!-- Label For Select BBC News option [CHAR LIMIT=20] -->
+    <string name="settings_BBC_News_label">BBC News</string>
+    <string name="settings_BBC_News_value" translatable="false">bbc-news</string>
+
+    <!-- Label For Select TechCrunch News option [CHAR LIMIT=20] -->
+    <string name="settings_TechCrunch_label">TechCrunch News</string>
+    <string name="settings_TechCrunch_value" translatable="false">techcrunch</string>
+
+    <!-- Label For Select TechCrunch News option [CHAR LIMIT=20] -->
+    <string name="settings_theWashingtonPost_label">The Washington Post</string>
+    <string name="settings_theWashingtonPost_value" translatable="false">the-washington-post</string>
+
+    <!-- Label For Select All News option [CHAR LIMIT=20] -->
+    <string name="settings_All_label">All</string>
+    <string name="settings_All_value" translatable="false">all</string>
+
+    <!-- Strings For Select Language Preference [CHAR LIMIT=30] -->
+    <string name="settings_language_label">Select language</string>
+    <string name="settings_language_key" translatable="false">language</string>
+    <string name="settings_language_default" translatable="false">@string/settings_english_value</string>
+
+    <!-- Label For Select Spanish Language [CHAR LIMIT=20] -->
+    <string name="settings_spanish_label">Spanish</string>
+    <string name="settings_spanish_value" translatable="false">es</string>
+
+    <!-- Label For Select English recent option [CHAR LIMIT=20] -->
+    <string name="settings_english_label">English</string>
+    <string name="settings_english_value" translatable="false">en</string>
+
+    <!-- Strings For Select Language Preference [CHAR LIMIT=30] -->
+    <string name="settings_displayImage_label">Display Images</string>
+    <string name="settings_displayImage_key" translatable="false">display_image</string>
+    <string name="settings_displayImage_default" translatable="false">@string/settings_off_value</string>
+
+    <!-- Label For Select Spanish Language [CHAR LIMIT=20] -->
+    <string name="settings_on_label">On</string>
+    <string name="settings_on_value" translatable="false">on</string>
+
+    <!-- Label For Select English recent option [CHAR LIMIT=20] -->
+    <string name="settings_off_label">Off</string>
+    <string name="settings_off_value" translatable="false">off</string>
+
+</resources>
