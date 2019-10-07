@@ -24,7 +24,7 @@ The data is provide by [newsapi.org](https://newsapi.org)
 
 ## Screenshot
 
-![Phone Screenshot 21](https://user-images.githubusercontent.com/8432815/61989445-75d52380-affd-11e9-9dd3-4edfa1cd8b3d.jpg)
+![Phone Screenshot 2](https://user-images.githubusercontent.com/8432815/66333140-ac3bf280-e90c-11e9-9e8b-b48943bdfca5.jpg)
 
 ## License
 
